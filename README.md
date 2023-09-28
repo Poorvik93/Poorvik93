@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Web Development**
 
-- 💬 Ask me about **JAVA(Basic),HTML,CSS,PYTHON**
+- 💬 Ask me about **JAVA,HTML,CSS,Java Script(Basic), Manual Testing,SQL**
 
 - 📫 How to reach me **poorvikgowdak2001@gmail.com**
 
