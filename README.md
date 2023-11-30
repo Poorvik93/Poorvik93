@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poorvikgowda K</h1>
-<h3 align="center">A passionate frontend developer Intern from India</h3>
+<h3 align="center">A passionate Java Full Stack developer Intern from India</h3>
 
 - 🌱 I’m currently learning **Java Full Stack Web Development**
 
