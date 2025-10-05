@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://poorvikgowda.000webhostapp.com/Index.html](https://poorvikgowda.000webhostapp.com/Index.html)
 
-- 💬 Ask me about **JAVA,Java Script,Automation Testing,Manual Testing,SQL**
+- 💬 Ask me about **NODE,C#,Java Script,Automation Testing,Manual Testing,SQL**
 
 - 📫 How to reach me **poorvikgowdak2001@gmail.com**
 
